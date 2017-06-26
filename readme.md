@@ -1,8 +1,8 @@
 ## VirtualMousePad
-## Web camera based mouse control application based on CNN classifier.
-### It allows to map user eye blinks to mouse button actions.
+Web camera based mouse control application based on CNN classifier.
+It allows to map user eye blinks to mouse button actions.
 
-### This is a prototype demonstrating the idea. Classifier model trained on the [CEW dataset](http://parnec.nuaa.edu.cn/xtan/data/ClosedEyeDatabases.html) 
+This is a prototype demonstrating the idea. Classifier model trained on the [CEW dataset](http://parnec.nuaa.edu.cn/xtan/data/ClosedEyeDatabases.html) 
 
 ## Dependencies
 
